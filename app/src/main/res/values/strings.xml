@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Registro Datos</string>
+    <string name="t_nombre">Nombre</string>
+    <string name="t_fecha">Fecha de Nacimiento</string>
+    <string name="t_telefono">Telefono</string>
+    <string name="t_email">Email</string>
+    <string name="t_descripcion">Descripcion Contacto</string>
+    <string name="t_boton_sig">Siguiente</string>
+    <string name="t_boton_editar">Editar Datos</string>
+    <string name="pnombre">Nombre</string>
+    <string name="pfecha">Fecha</string>
+    <string name="ptelefono">Telefono</string>
+    <string name="pemail">Email</string>
+    <string name="pdescripcion">Descripcion</string>
+    <string name="titulo_a2">Confirmar Datos</string>
+</resources>
